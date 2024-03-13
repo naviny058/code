@@ -1,1 +1,1 @@
-# This repo will contain all my small to basic project i will try to upadate this readme file as i will create any new project
+# This repo will contain all my small to basic project i will try to upadate this readme file as i will create any new project.also i will upload this project on replit so that it is easy to see the code as well as the output of the code 😊
