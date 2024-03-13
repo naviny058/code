@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(48, 45, 45);
+    color: rgb(255, 0, 0);
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.main {
+    max-width: 1220px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+button {
+    padding: 0.5rem 0.9rem;
+    background-color: red;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    margin-top: 1rem;
+}
